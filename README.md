@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zachary Hurley
+# 👋 Hi, I’m Zach
 
 Welcome! I'm a data-driven  thinker with a background in business operations, athletics, and analytics. Now I am building the skills to become a product manager with a strong foundation in data science.
 
